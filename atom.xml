@@ -5,16 +5,38 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://godweiyang.com/"/>
-  <updated>2021-04-16T05:35:50.984Z</updated>
-  <id>https://godweiyang.com/</id>
+  <link href="https://awaken233.github.io/"/>
+  <updated>2021-04-16T07:42:12.751Z</updated>
+  <id>https://awaken233.github.io/</id>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>你真的了解DispatcherServlet的url-pattern配置吗</title>
+    <link href="https://awaken233.github.io/2021/04/16/ni-zhen-de-liao-jie-dispatcherservlet-de-url-pattern-pei-zhi-ma/"/>
+    <id>https://awaken233.github.io/2021/04/16/ni-zhen-de-liao-jie-dispatcherservlet-de-url-pattern-pei-zhi-ma/</id>
+    <published>2021-04-16T07:38:37.000Z</published>
+    <updated>2021-04-16T07:42:12.751Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;对于springmvc中前端控制器url-pattern配置, 看了很多博客, 发现好多人理解都是错误, 并不清楚会拦截什么路径的请求,
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>5W2H | 关于写博客的七点反思</title>
-    <link href="https://godweiyang.com/2020/01/14/5w2h-godweiyang/"/>
-    <id>https://godweiyang.com/2020/01/14/5w2h-godweiyang/</id>
+    <link href="https://awaken233.github.io/2020/01/14/5w2h-godweiyang/"/>
+    <id>https://awaken233.github.io/2020/01/14/5w2h-godweiyang/</id>
     <published>2020-01-14T07:27:31.000Z</published>
     <updated>2021-04-16T05:35:50.984Z</updated>
     
@@ -34,10 +56,10 @@
     
     </summary>
     
-      <category term="随笔" scheme="https://godweiyang.com/categories/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="https://awaken233.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-      <category term="博客" scheme="https://godweiyang.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+      <category term="博客" scheme="https://awaken233.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
     
   </entry>
   
