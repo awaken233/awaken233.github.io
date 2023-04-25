@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>awaken233</title>
+  
+  <subtitle>FORGE AHEAD</subtitle>
+  <link href="https://awaken233.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://awaken233.github.io/"/>
+  <updated>2023-04-25T18:08:32.814Z</updated>
+  <id>https://awaken233.github.io/</id>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>《认知觉醒》读书笔记</title>
+    <link href="https://awaken233.github.io/2023/042657702.html"/>
+    <id>https://awaken233.github.io/2023/042657702.html</id>
+    <published>2023-04-25T18:02:50.000Z</published>
+    <updated>2023-04-25T18:08:32.814Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;认知觉醒读书笔记&quot;&gt;&lt;a href=&quot;#认知觉醒读书笔记&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>你真的了解DispatcherServlet的url-pattern配置吗</title>
+    <link href="https://awaken233.github.io/2021/041617517.html"/>
+    <id>https://awaken233.github.io/2021/041617517.html</id>
+    <published>2021-04-16T07:38:37.000Z</published>
+    <updated>2021-04-19T08:41:57.472Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;对于springmvc中前端控制器url-pattern配置, 看了很多博客, 发现好多人理解都是错误, 并不清楚会拦截什么路径的请求,</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
